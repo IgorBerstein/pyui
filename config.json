@@ -1,0 +1,26 @@
+{"settings": {
+  "default_env": "test",
+  "environments": {
+      "test": {
+        "app_host": "localhost",
+        "app_port": 8080,
+      },
+      "staging": {},
+      "production": {}
+ },
+  "browser": {
+      "default_browser": "chrome",
+      "default_browser_profile": "chrome_default",
+      "default_browser_path": "drivers/chromedriver.exe",
+      "isBrowserHeadless": false,
+      "isGrid": false,
+      "gridHost": "http://browserstack:4444/wd/hub",
+      "gridSettings": {},
+  },
+  "browser_profiles": {
+      "chrome_default": {"browserName": "chrome"},
+      "safari_default": {"browserName": "safari"}
+  }
+}}
+
+

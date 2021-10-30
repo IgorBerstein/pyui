@@ -1,0 +1,11 @@
+#Tutorials
+https://behave.readthedocs.io/en/stable/gherkin.html
+https://behave.readthedocs.io/en/stable/tutorial.html
+https://behave.readthedocs.io/en/stable/fixtures.html
+
+#Examples for pytest
+run tests in "[PROJECT_ROOT_DIR]\pytest_tests" folder
+
+#Examples for cucumber with pytest fixtures
+run [PROJECT_ROOT_DIR]\features\runCukesDemo.py
+

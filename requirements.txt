@@ -1,0 +1,6 @@
+pytest
+pytest-cases
+selenium
+requests
+behave
+pandas
